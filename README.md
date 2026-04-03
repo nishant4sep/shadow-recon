@@ -92,7 +92,7 @@ Powered by **GF pattern matching**:
 <!-- Replace with actual screenshot -->
 ![Shadow Recon Demo](assets/demo.png)
 
-*Add your screenshots to the `assets/` folder and update the path above*
+
 
 </div>
 
@@ -246,8 +246,6 @@ chmod +x setup.sh recon.sh addscope.sh
 
 <br/>
 
-
----
 
 <sub>Made with ❤️ and a terminal window — Shadow Recon © 2025 Nishant Padha</sub>
 
