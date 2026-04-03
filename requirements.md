@@ -1,18 +1,8 @@
-\# Requirements
-
-
-
-Install:
-
-
-
-\- subfinder
-
-\- assetfinder
-
-\- httprobe
-
-\- waybackurls
-
-\- gf
-
+subfinder
+assetfinder
+httprobe
+httpx
+waybackurls
+gf
+fff
+anew
